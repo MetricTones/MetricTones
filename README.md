@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MetricTones
 - 👀 I’m interested in web dev, arts, music, and various other brain-stimulating activities.
 - 🌱 I’m currently learning full stack with HTML, CSS, & JavaScript, and Svelte/SvelteKit.
-- 💞️ I’m looking to collaborate on Dream Sequence!
+- 💞️ I’m looking to collaborate on WaveDream.Space!
 - 📫 How to reach me: metrictones@gmail.com
 
 <!---
